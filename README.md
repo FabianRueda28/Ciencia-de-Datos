@@ -1,5 +1,5 @@
 # Ciencia de Datos
-<img src = 'https://github.com/FabianRueda28/Ciencia-de-Datos/blob/main/src/que-es-la-ciencia-de-datos.png' height = 300 >
+<img src = 'https://github.com/FabianRueda28/Ciencia-de-Datos/blob/main/src/que-es-la-ciencia-de-datos.png' height = 400 >
 ¿Qué es la ciencia de datos?
 La ciencia de datos es el estudio de datos con el fin de extraer información significativa para empresas. Es un enfoque multidisciplinario que combina principios y prácticas del campo de las matemáticas, la estadística, la inteligencia artificial y la ingeniería de computación para analizar grandes cantidades de datos. Este análisis permite que los científicos de datos planteen y respondan a preguntas como “qué pasó”, “por qué pasó”, “qué pasará” y “qué se puede hacer con los resultados”.
 
@@ -22,8 +22,8 @@ En este caso vamos a utilizar MongoDB.
 
 - Power BI = Es una solución de análisis empresarial basado en la nube, que permite unir diferentes fuentes de datos, analizarlos y presentar un análisis de estos a través de informes y paneles. Con Power BI se tiene de manera fácil acceso a datos dentro y fuera de la organización casi en cualquier dispositivo.
 
-El Machine Learning = Es una disciplina del campo de la Inteligencia Artificial que, a través de algoritmos, dota a los ordenadores de la capacidad de identificar patrones en datos masivos y elaborar predicciones (análisis predictivo).
+- El Machine Learning = Es una disciplina del campo de la Inteligencia Artificial que, a través de algoritmos, dota a los ordenadores de la capacidad de identificar patrones en datos masivos y elaborar predicciones (análisis predictivo).
 
-Ejemplos de machine learning o aprendizaje automático
-Para que la plataforma tome una decisión sobre qué nuevas canciones o artistas recomendar a un oyente, los algoritmos de aprendizaje automático asocian las preferencias del oyente con otros oyentes que tienen un gusto musical similar.
+    Ejemplos de machine learning o aprendizaje automático
+    Para que la plataforma tome una decisión sobre qué nuevas canciones o artistas recomendar a un oyente, los algoritmos de aprendizaje automático asocian las preferencias del oyente con otros oyentes que tienen un gusto musical similar.
 
