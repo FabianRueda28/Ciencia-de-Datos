@@ -7,4 +7,6 @@ Es una herramienta que lo libera de tener que crear constantemente contraseñas 
 Seguido de esta innformación el proyecto se basa en pedirle al usuario cuantas contraseñas quiere y de cuantos caracteres desea que tenga de longitud, con esto puede generar contraseñas seguras y mucho mas eficientes que uno mismo, y ni hablar de la velocidad a la que lo hace, aproximadamente unos 0.06 segundos dependiendo del numero de contraseñas que desee. 
 
 Ejemplo del resultado: 
+
+
 <img src = 'https://github.com/FabianRueda28/Ciencia-de-Datos/blob/main/1.%20Python/src/bash.png' height = 500 >
